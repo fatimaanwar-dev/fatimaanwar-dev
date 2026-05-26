@@ -40,8 +40,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎭 [Mood Analyzer App](https://github.com/fatimaanwar-dev/mood-analyzer-app) | AI-powered emotion detection mobile app · Bachelor's FYP | Flutter, Dart |
-| ⚡ [Realtime Emote Controller](https://github.com/fatimaanwar-dev/realtime-emote-controller) | Distributed real-time emote system — RabbitMQ, WebSockets, Docker Compose · Team Project | Go, Node.js, RabbitMQ, Docker |
+| 🎭 [Mood Analyzer App] | AI-powered emotion detection mobile app · Bachelor's FYP | Flutter, Dart |
+| ⚡ [Realtime Emote Controller] | Distributed real-time emote system — RabbitMQ, WebSockets, Docker Compose · Team Project | Go, Node.js, RabbitMQ, Docker |
 
 ---
 
