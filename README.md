@@ -15,7 +15,7 @@
 ### 👩‍💻 About Me
 
 - 🤖 Passionate about **Python & AI/ML**
-- 📱 Built an **AI-powered Mood Analyzer App** (Flutter/Dart) — Bachelor's FYP
+- 📱 Built an **Mood Analyzer App** (Flutter/Dart) — Bachelor's FYP
 - ⚡ Built a **Distributed Realtime Emote Controller** — RabbitMQ message queuing, WebSockets & live admin dashboard · Team Project
 - 🌱 Currently deepening skills in **Python · Machine Learning · NLP**
 - 🔍 Open to **Research Assistant roles · Internships · Junior AI/ML positions** in Finland & Europe
@@ -27,7 +27,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
