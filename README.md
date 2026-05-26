@@ -40,8 +40,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎭 [Mood Analyzer App] | AI-powered emotion detection mobile app · Bachelor's FYP | Flutter, Dart |
-| ⚡ [Realtime Emote Controller] | Distributed real-time emote system — RabbitMQ, WebSockets, Docker Compose · Team Project | Go, Node.js, RabbitMQ, Docker |
+| 🎭 Mood Analyzer App | Mobile app that assesses user mood through an interactive questionnaire, give suggestions to enhance mood , a diary section for thoughts & displays results · Bachelor's FYP | Flutter, Dart |
+| ⚡ Realtime Emote Controller | Distributed real-time emote system — RabbitMQ, WebSockets, Docker Compose · Team Project | Go, Node.js, RabbitMQ, Docker |
 
 ---
 
